@@ -189,8 +189,7 @@ if __name__ == "__main__":
     if not df_all.empty:
         # Normalize date column, sort, and drop duplicates once
         df_all["date_obs_elab"] = pd.to_datetime(df_all["date_obs_elab"])
-        df_sorted = df_all.sort_values(by="date_obs_elab", ascending=True).drop_duplicates(
-            "date_obs_elab", keep="first")
+        df_sorted = df_all.sort_values(by="date_obs_elab", ascending=True)
         df_sorted.to_csv(OUTPUT, index=False)
         print(f"\nSorted and saved data to {OUTPUT}")
 
