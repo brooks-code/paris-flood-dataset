@@ -9,7 +9,7 @@
 
 > This is a follow-up project inspired by the Hackaviz 2025 [dataset](https://github.com/Toulouse-Dataviz/hackaviz-2025). This repository contains a Python script that builds the Paris flood dataset available on [Kaggle](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset). The Joy Division inspired data visualization is available in the following [notebook]() and this was my original submission for the Hackathon: [1](https://github.com/hyperphantasia/miniature-fortnight) and [2](https://hyperphantasia.github.io/miniature-fortnight).
 
-The resulting dataset is useful for studying flood risk indicators and their related seasonal pattern.
+The resulting dataset is useful for studying flood risk indicators and their related seasonal pattern. Curious about some creative applications? The [dataset](https://www.kaggle.com/datasets/grimespoint/paris-flood-dataset) is available on Kaggle with a fancy jupyter [notebook](https://www.kaggle.com/code/grimespoint/paris-flood-dataset-the-design-data-visualization).
 
 ## Table of contents
 
